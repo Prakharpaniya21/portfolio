@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+body {
+  background-image: url('../images/Cool-Light-Grey-background-fantastic-imago-creative-studio-video-production.jpg');
+  font-family: "Oswald", sans-serif;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+  padding-right: 55px;
+  padding-left: 55px;
+  font-size: 22px;
+  font-weight: 300;
+}
+#b1 {
+  background-image: url("../images/Central.png");
+}
+#b2 {
+  background-image: url("../images/hIRAN\ MAGEI\ SEC\ 3\ B.jpg");
+}
+#b3 {
+  background-image: url("../images/srm-university-ncr-campus-ghaziabad.jpg");
+}
+#edu {
+  color: whitesmoke;
+  text-shadow: 3px 2px 2px #000;
+}
+#img{
+  background-image: url('../images/WhatsApp\ Image\ 2019-09-01\ at\ 3.36.15\ AM.jpeg');
+  height: 75vh;
+  background-size: cover;
+}
+.col-lg-4 {
+  height: 300px;
+}
+td li {
+  margin: 50px 120px 80px 60px;
+}
+.site-footer {
+  padding: 4em 0;
+  background: #1b1d24;
+}
+@media (min-width: 768px) {
+  .site-footer {
+    padding: 4em 0;
+  }
+}
+.site-footer {
+  background: #000000;
+  padding: 4em 0;
+}
+.site-footer .border-top {
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+.site-footer h2,
+.site-footer h3,
+.site-footer h4,
+.site-footer h5 {
+  color: #fff;
+}
+.site-footer a {
+  color: #fff;
+}
+.site-footer a:hover {
+  color: #ff5733;
+}
+.site-footer ul li {
+  margin-bottom: 10px;
+}
+.site-footer .footer-heading {
+  font-size: 16px;
+  color: #818186 !important;
+}

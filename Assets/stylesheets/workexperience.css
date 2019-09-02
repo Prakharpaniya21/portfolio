@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+body {
+  font-family: "Oswald", sans-serif;
+}
+.bg-light {
+  background-color: rgb(255, 255, 255);
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+  padding-right: 55px;
+  padding-left: 55px;
+  font-size: 22px;
+  font-weight: 300;
+}
+body {
+  background-image: url("../images/Cool-Light-Grey-background-fantastic-imago-creative-studio-video-production.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#one img {
+  float: right;
+  max-width: 700px;
+}
+#box1 {
+  float: left;
+}
+#box2 {
+  float: left;
+  margin-top: 200px;
+}
+#two img {
+  float: right;
+  width: 650px;
+  height: 400px;
+  margin-top: 50px;
+}
+.site-footer {
+  padding: 4em 0;
+  background: #1b1d24;
+}
+@media (min-width: 768px) {
+  .site-footer {
+    padding: 4em 0;
+  }
+}
+.site-footer {
+  background: #000000;
+  padding: 4em 0;
+}
+.site-footer .border-top {
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+.site-footer h2,
+.site-footer h3,
+.site-footer h4,
+.site-footer h5 {
+  color: #fff;
+}
+.site-footer a {
+  color: #fff;
+}
+.site-footer a:hover {
+  color: #ff5733;
+}
+.site-footer ul li {
+  margin-bottom: 10px;
+}
+.site-footer .footer-heading {
+  font-size: 16px;
+  color: #818186 !important;
+}
+#exp {
+  height: 95vh;
+}
+.mb-3,
+.my-3 {
+  margin-bottom: 1rem !important;
+  margin-top: 70px;
+}
+.card {
+  background: transparent;
+  border: 0px;
+}
